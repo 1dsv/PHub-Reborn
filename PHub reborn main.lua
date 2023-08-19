@@ -221,12 +221,6 @@ local Tab = Window:MakeTab({
 	PremiumOnly = false
 })
 
-Tab:AddButton({
-	Name = "Frakture SS",
-	Callback = function()
-      		loadstring(game:HttpGet("https://raw.githubusercontent.com/L1ghtingBolt/FraktureSS/master/unobfuscated.lua"))()
-  	end    
-})
 
 Tab:AddButton({
 	Name = "Backdoor.exe",
@@ -241,13 +235,6 @@ local Tab = Window:MakeTab({
 	Name = "Other hubs",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
-})
-
-Tab:AddButton({
-	Name = "tkotn's hub (very cool fr)",
-	Callback = function()
-      		loadstring(game:HttpGet("https://pastebin.com/raw/qpbgXQL8"))()
-  	end    
 })
 
 Tab:AddButton({
