@@ -1,5 +1,5 @@
 # PHub-Reborn a Roblox script hub
-real
+Its open source now because yes
 
 ## wanna suggest me a script to add? dm me on discord (discord: 1ds.)
 
