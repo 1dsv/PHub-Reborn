@@ -1,5 +1,5 @@
 # PHub-Reborn a Roblox script hub
-Its open source now because yes
+
 
 ## wanna suggest me a script to add? dm me on discord (discord: 1ds.)
 
@@ -7,5 +7,11 @@ Its open source now because yes
 # UI Lib used in this hub
 I used orion ui lib for this one
 Orion UI lib: https://github.com/shlexware/Orion/blob/main/Documentation.md
+
+# update!!
+- added stuffz
+- so cool
+- more sigma
+- literally me
 
 # hehe
